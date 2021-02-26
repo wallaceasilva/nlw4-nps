@@ -1,5 +1,8 @@
 
 Baseado nos readme https://github.com/Lucas-Angelo/nps-api/ e https://github.com/rocketseat-education/nlw-04-nodejs
+
+<br/>
+
 Excelente, parabéns!
 
 
@@ -46,7 +49,7 @@ Esse projeto foi desenvolvido durante a trilha de NodeJS, na quarta edição da 
 
 ## 🔶 Diagrama
 
-<img src="https://github.com/rocketseat-education/nlw-04-nodejs/blob/master/public/diagrama.png" alt="Diagrama da aplicação" />
+<img src="https://github.com/wallaceasilva/nlw-04-nodejs/blob/master/public/diagrama.png" alt="Diagrama da aplicação" />
 
 ## 🚀 Como executar
 
