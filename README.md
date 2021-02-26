@@ -46,13 +46,13 @@ Esse projeto foi desenvolvido durante a trilha de NodeJS, na quarta edição da 
 
 ## 🔶 Diagrama
 
-<img src="public/diagrama.png" alt="Diagrama da aplicação" />
+<img src="https://github.com/rocketseat-education/nlw-04-nodejs/blob/master/public/diagrama.png" alt="Diagrama da aplicação" />
 
 ## 🚀 Como executar
 
 - Clone o repositório
 - Instale as dependências com `yarn`
-- Inicie o servidor com `yarn start`
+- Inicie o servidor com `yarn dev`
 
 A aplicação pode ser acessada em [`localhost:3333`](http://localhost:3333).
 

@@ -125,4 +125,9 @@ Configuração do Ambiente
 
             template (https://handlebarsjs.com/guide/)
             yarn add handlebars
+
+            Validações
+            yarn add yup
+            
+            yarn add express-async-errors
     
