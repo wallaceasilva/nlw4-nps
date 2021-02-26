@@ -1,8 +1,6 @@
 
 Baseado nos readme https://github.com/Lucas-Angelo/nps-api/ e https://github.com/rocketseat-education/nlw-04-nodejs
 
-<br/>
-
 Excelente, parabéns!
 
 
